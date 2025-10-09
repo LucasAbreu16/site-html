@@ -108,6 +108,7 @@ img.pequeno{
 img.grande{
     display: block;
     width: 40%;
+    min-width: 320px;
     margin: auto;
 }
 .video {
